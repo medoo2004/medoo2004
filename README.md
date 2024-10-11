@@ -1,6 +1,10 @@
-## Hi Ahmed Salah Ibrahim 👋
+## Hi I'm Ahmed Salah Ibrahim 👋
 A passionate Autonomous Engineer
 ![WhatsApp Image 2024-10-11 at 19 52 02_358f290a](https://github.com/user-attachments/assets/963781d2-c4f1-49b4-b323-9fcbfd50f328)
+
+![Followers](https://img.shields.io/github/followers/medoo2004?style=social)
+![Stars](https://img.shields.io/github/stars/medoo2004?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medoo2004&show_icons=true)
 
 
 
